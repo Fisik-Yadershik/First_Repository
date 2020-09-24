@@ -1,0 +1,3 @@
+var n,i,k,a:integer;
+begin
+writeln('введите количество чисел');
